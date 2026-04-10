@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/DisabledAbel/NetworkChuck/raw/main/IMG_4619.jpeg" width="200" />
+  <img src="https://i.imgur.com/4pXa9Sy.jpg" width="200" />
 </p>
   ☕ Coffee | 🌐 Networking | 🔐 Cybersecurity | 🚀 IT Careers
 </p>
