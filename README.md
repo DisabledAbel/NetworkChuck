@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="./assets/logo.png" width="200" />
+  <img src="https://github.com/DisabledAbel/NetworkChuck/raw/main/IMG_4619.jpeg" width="200" />
 </p>
-
-<p align="center">
   ☕ Coffee | 🌐 Networking | 🔐 Cybersecurity | 🚀 IT Careers
 </p>
 
