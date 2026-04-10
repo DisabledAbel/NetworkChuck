@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FFB3&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+NetworkChuck!;Let's+Learn+Networking!;Hack+the+Planet+🔥;Drink+Coffee+☕+Code+Repeat" />
+  <img src="./assets/logo.png" width="200" />
 </p>
 
 <p align="center">
